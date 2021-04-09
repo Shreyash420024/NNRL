@@ -15,3 +15,4 @@ that the program will calculate and the optimizer decrease the time in which it 
 Then training the model is the block where the function forward is called.Here the objective is to back propogate
 and reset the weights in order to make the final loss zero.The final paragraph only helps us to visualize is better 
 and has a set of functions from the matplotlib to plot a graph.
+(Link for Implementation)[https://colab.research.google.com/drive/1LoB4_7H9bcnICqHXqPEffHBgwO-M5yKR?usp=sharing] 
